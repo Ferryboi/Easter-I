@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game/Opening.unity
+    guid: d18d4ab1d6adc0049bdc4044cf7e86d5
+  - enabled: 1
+    path: Assets/Scenes/Game/Menu.unity
+    guid: 6d9c6d84fb2fc7f4a892f771e66f8d5d
+  - enabled: 1
+    path: Assets/Scenes/Game/Play.unity
+    guid: c3e7eabc1226133468ea3d9f15a4ed20
+  - enabled: 1
+    path: Assets/Scenes/Game/Results.unity
+    guid: 29da644e6505c164dba328e12d71c271
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Garden.unity
+    guid: 8c9652db478b2f24292c9a99050f5734
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Cemetary.unity
+    guid: c74ff2046f17cc64dbda953fd4734ca4
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Port.unity
+    guid: e374d172c9141ae438ada25ab38344e2
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Space.unity
+    guid: dd931e6a7a44cd0408f48bf889396c6d
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Cemetary-Small.unity
+    guid: e4248f107f421a7409234d3ae5d3f7fa
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Port-Small.unity
+    guid: c475fb5021dd357458f315257ece5b91
+  - enabled: 1
+    path: Assets/Scenes/Game/Levels/Garden-Small.unity
+    guid: 1fe84a1d75e53c941b6cc33491b0e5b3
+  m_configObjects: {}

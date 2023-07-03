@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93bd9ceb428e394f80de4d973ed29cf, type: 3}
+  m_Name: Freeze
+  m_EditorClassIdentifier: 
+  gamemodeRef: 5
+  title: Freeze Tag
+  description: Two teams, hiders and seekers! Try not to get tagged!
+  primaryText: Don't get tagged by the seekers!
+  subText: Interact with frozen teammates to unfreeze them!
+  image: {fileID: 21300000, guid: 0285c5a1c27eb0c48b273749cb1e610e, type: 3}
+  minTeams: 2
+  maxTeams: 2
+  teams:
+  - {fileID: 11400000, guid: 28a1b35cee721984e92c49933344d9af, type: 2}
+  - {fileID: 11400000, guid: 4999676f86fa83a45a8f8253c5f58b82, type: 2}

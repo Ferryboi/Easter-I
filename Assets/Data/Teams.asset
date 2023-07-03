@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d6a210bb60df5f4db2121e13f60121d, type: 3}
+  m_Name: Teams
+  m_EditorClassIdentifier: 
+  maxTeams: 4
+  minTeams: 2
+  teams:
+  - teamRef: Red Team
+    teamColor: {r: 0.9716981, g: 0.36209506, b: 0.36209506, a: 1}
+  - teamRef: Blue Team
+    teamColor: {r: 0.2943663, g: 0.64972943, b: 0.990566, a: 1}
+  - teamRef: Green Team
+    teamColor: {r: 0.49043253, g: 0.9716981, b: 0.5470521, a: 1}
+  - teamRef: Orange Team
+    teamColor: {r: 0.9716981, g: 0.76075166, b: 0.21542363, a: 1}
+  - teamRef: Purple Team
+    teamColor: {r: 0.8182576, g: 0.6462264, b: 1, a: 1}
+  - teamRef: Cyan Team
+    teamColor: {r: 0.6494749, g: 0.990566, b: 0.98387796, a: 1}
+  - teamRef: Magenta Team
+    teamColor: {r: 1, g: 0.6179246, b: 0.9790233, a: 1}
+  - teamRef: Lime Team
+    teamColor: {r: 0.8319775, g: 1, b: 0.33490568, a: 1}
+  - teamRef: DEPRECATED (DO NOT USE TEAM GROUP)
+    teamColor: {r: 0, g: 0, b: 0, a: 1}
