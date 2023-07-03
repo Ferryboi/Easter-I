@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a35e73b97d1da4a8682b055dbfaacc, type: 3}
+  m_Name: Port
+  m_EditorClassIdentifier: 
+  mapRef: 2
+  mapName: Port
+  description: Shipping ports separated by drawbridges provide the ultimate battleground
+  image: {fileID: 21300000, guid: 3c78dd3808cfd62478739e08abf00f84, type: 3}
+  teamSelectBG: {fileID: 4644058152868074191, guid: f44eedaf2d8121d479bbe836b0acad45, type: 3}
+  sceneName: Port-Small
